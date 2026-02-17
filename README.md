@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Jimbobroob@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You should litsen to magbay
+- ⚡ Fun fact: You should litsen to magbay and read The God of small things
 
 <!---
 Jimbobroob/Jimbobroob is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
