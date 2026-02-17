@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jimbobroob Joshua Thomas I work at Iress
 - 👀 I’m interested in C++, C#, C and Rust
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# and Rust
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me Jimbobroob@gmail.com
 - 😄 Pronouns: He/Him
